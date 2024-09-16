@@ -44,7 +44,7 @@ h1{
     margin: 30px;
     text-align: center;
 }
-@keyframes mudarcores {
+/* @keyframes mudarcores {
 0% {
     background-color: #4169E1;
 }
@@ -60,4 +60,4 @@ h1{
 100%{
     background-color: #374ca8;
 } 
-}
+} */
